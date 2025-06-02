@@ -37,15 +37,23 @@ Contributed to platforms serving millions of users, with deep experience in back
 
 ---
 
-### 🏢 Digital Layers — Full Stack Engineer  
+### 🏢 Digital Layers — Full Stack Engineer (Laravel)
 *Dec 2020 – Jul 2021*
+- Developed a Laravel app for Surepay SA.
 - Maintained and enhanced Ruby on Rails application (Hala Guru).
 
 ---
 
-### 🏢 CODE95 — Web Developer  
+### 🏢 Salla — Web Developer
+*Nov 2020 – Dec 2020*
+- Integrated backend with Cloudflare APIs using GraphQL.
+- Built dashboards to retrieve and display traffic and security analytics.
+
+---
+
+### 🏢 Code95 — Web Developer  
 *Jul 2018 – Nov 2020*
-- Developed and maintained backend-heavy Rails systems.
+- Developed and maintained backend-heavy Laravel systems.
 - Built internal systems using MySQL geospatial, ticketing, and online payments.
 - Delivered APIs for mobile apps and admin panels (e.g., Dubai Assessment).
 
