@@ -1,6 +1,6 @@
 # Ahmed Sayed Abdelsalam
 
-**Senior Backend Developer | Ruby on Rails | Laravel | React.js | Scalable APIs | Remote-Ready**  
+**Senior Backend Developer | NodeJs | Ruby on Rails | Laravel | React.js | Scalable APIs | Remote-Ready**  
 📍 Based in Egypt — Open to full-time remote roles
 📞 +20 101 884 0399  
 📧 e.eng.ahmedsayed@gmail.com  
@@ -10,12 +10,21 @@
 
 ## 🧑‍💻 About
 
-Full Stack Developer with 7+ years of experience, specializing in Ruby on Rails and Laravel.  
+Full Stack Developer with 9+ years of experience, specializing in Ruby on Rails and Laravel.  
 Contributed to platforms serving millions of users, with deep experience in backend performance, cost optimization, and system integrations.
 
 ---
 
 ## 💼 Experience
+
+### 🏢 ZAN — Engineering Manager
+*Oct 2025 – Now*
+- Setting up tech enviroment, infrastructure and tools from scratch.
+- Hiring and managing a small team of engineers.
+- Worked on building the marketplace admin & vendor panels using Nodejs & MercurJs.
+- Aligning & gathering Business requirements.
+
+---
 
 ### 🏢 Ninja — Software Engineer (Ruby on Rails)  
 *Dec 2024 – Apr 2025*
